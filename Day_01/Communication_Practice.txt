@@ -1,0 +1,20 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Introduce Yourself:
+
+
+My name is Tamilselvan S.
+I am from Attur.
+I am currently pursuing  my degree in CSE(Cyber Security) at Muthayammal Engineering college.
+I have learned technically such as HTML, CSS, JavaScript, Database, Java, React, Node, Express, MongoDB, SQL.
+This technologies helped me understand both frondend and backend development.
+I have worked on project like "TamilNadu Party Management System".
+In this project is to develop a web-based platform that helps to manage political
+party activities in a structured and efficient way.
+Through this project , I learned about system design, database management and importance of building user-friendly applications.
+My goal is to become a successful software engineer and work on innovative technologies.
+I have strong interest in software development and web technologies.
+I have started focusing on programming and web development.
+
+
