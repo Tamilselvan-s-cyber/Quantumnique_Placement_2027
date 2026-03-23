@@ -1,0 +1,9 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Explain one challenge you faced while learning coding:
+
+     (1) The main difficulty was tracking the flow of function calls and understanding the base condition. Without a clear base case, 
+     the program would run infinitely, which made it frustrating.
+
+     (2) To overcome this, I started practicing small problems like factorial and Fibonacci. I also used dry run techniques and wrote down each step to see how the function stack worked. Watching visual
+      explanations and debugging line by line helped me a lot.
