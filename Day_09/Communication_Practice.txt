@@ -1,0 +1,24 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain what happens when you run a program
+
+
+
+            (1) First is compilation or interpretation.
+
+            (2)  The code is converted into machine code before execution.
+
+            (3) If it is interpreted like Python, it runs line by line.
+
+            (4) Next is memory allocation.
+
+            (5) The system allocates RAM for variables, functions, and data
+                 structures used in the program.
+
+            (6) Then comes execution.
+
+            (7) The CPU processes each instruction step by step according to the
+                program logic.
+
+            (8) Get the output.

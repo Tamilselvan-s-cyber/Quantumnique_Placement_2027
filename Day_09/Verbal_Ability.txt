@@ -1,0 +1,50 @@
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Algorithms are step-by-step procedures used to solve problems efficiently.
+Good algorithms reduce time complexity and memory usage.
+Efficient algorithms are very important in software development.
+
+Questions
+
+1. What is an algorithm?
+
+Answer:
+
+        A step-by-step procedure to solve a problem.
+
+2. Why are efficient algorithms important?
+
+Answer:
+
+        They improve performance by saving time and memory.
+
+3. What do algorithms help reduce?
+
+Answer:
+
+        Time complexity and memory usage.
+
+
+
+
+Grammar Correction
+
+1. She don’t like programming.
+
+Answer:
+
+        She doesn't like programming.
+
+2. He have written the code.
+
+Answer:
+
+        He has written the code.
+
+3. They is working on algorithms.
+
+Answer:
+
+        They are working on algorithms.
